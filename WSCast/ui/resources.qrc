@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file alias="close_bw">icons/close_bw.png</file>
+    <file alias="close">icons/close.png</file>
+    <file alias="wicon">icons/rgb.png</file>
+    <file alias="led_green">icons/green-led-on.png</file>
+    <file alias="led_blue">icons/blue-led-on.png</file>
+    <file alias="led_red">icons/led-red-on.png</file>
+  </qresource>
+</RCC>
